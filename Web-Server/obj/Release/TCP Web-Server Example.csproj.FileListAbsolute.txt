@@ -1,0 +1,26 @@
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\TCP Web-Server Example.exe.config
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\TCP Web-Server Example.exe
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\TCP Web-Server Example.pdb
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\MySql.Data.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.Helpers.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.Mvc.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.Razor.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.WebPages.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\Google.Protobuf.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\Renci.SshNet.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\MySql.Data.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.Helpers.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.Mvc.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.Razor.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.WebPages.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Release\TCP Web-Server Example.csprojAssemblyReference.cache
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Release\TCP Web-Server Example.csproj.CoreCompileInputs.cache
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Release\TCP Web-Server Example.csproj.CopyComplete
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Release\TCP Web-Server Example.exe
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Release\TCP Web-Server Example.pdb

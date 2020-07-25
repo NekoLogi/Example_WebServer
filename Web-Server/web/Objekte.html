@@ -1,0 +1,89 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>Firma-Objekte</title>
+        <link href="Objekte.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <section>
+            <div id="Titel-Slogan">
+                <center>
+                    <h1 style="font-size: 50px; text-shadow: black 2px 2px 10px;"><br />Firma<br /></h1>
+                    <h4 style="text-shadow: black 2px 2px 10px;">-------------------------Slogan-------------------------</h4>
+                    <br />
+                    <ul>
+                        <li><a href="#home">Impressum</a></li>
+                        <li><a href="#news">Kontakt</a></li>
+                        <li><a class="active" href="Objekte.html">Objekte</a></li>
+                        <li><a href="htmlpage.html">Home</a></li>
+                        <li onclick="openForm()" style="float:left;">
+                            <a href="#login"><b>&nbsp Login &nbsp</b></a>
+                        </li>
+                    </ul>
+                </center>
+            </div>
+        </section>
+        <section>
+            <div class="form-popup" id="myForm">
+                <form action="/action_page.php" class="form-container">
+                    <center><h1>Login</h1></center>
+
+                    <label for="email"><b>Email</b></label>
+                    <input type="text" placeholder="Enter Email" name="email" required>
+
+                    <label for="psw"><b>Password</b></label>
+                    <input type="password" placeholder="Enter Password" name="psw" required>
+
+                    <button type="submit" class="btn">Login</button>
+                    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+                </form>
+            </div>
+            <script>
+                function openForm() {
+                    document.getElementById("myForm").style.display = "block";
+                }
+
+                function closeForm() {
+                    document.getElementById("myForm").style.display = "none";
+                }
+            </script>
+            <br /><br /><br />
+        </section>
+        <section>
+            <div class="column">
+                <a style="text-decoration:none;" href="https://www.google.de/maps/place/RE%2FMAX+Immobilienmakler+Bad+Kreuznach/@49.8441937,7.8751222,17z/data=!3m1!4b1!4m5!3m4!1s0x47bdf0b9db13999b:0xcc3f009c9ea78bd4!8m2!3d49.8441937!4d7.8773109" target="_blank">
+                    <div class="card">
+                        <img style="border-radius: 20px;" src="https://remax.azureedge.net/userimages/35/O_0be5d18aa7ec4d109b72fa88d575e25e_iList.jpg"
+                             width="100%" height="auto" />
+                        <p>Büro/Praxis</p>
+                        <p style="color:blue;">Bad Kreuznach, DE</p>
+                        <p style="font-size:20px">7.056.000 €</p>
+                    </div>
+                </a>
+            </div>
+            <div class="column">
+                <a style="text-decoration:none;" href="https://www.google.de/maps/place/RE%2FMAX+Immobilienmakler+Bad+Kreuznach/@49.8441937,7.8751222,17z/data=!3m1!4b1!4m5!3m4!1s0x47bdf0b9db13999b:0xcc3f009c9ea78bd4!8m2!3d49.8441937!4d7.8773109" target="_blank">
+                    <div class="card">
+                        <img style="border-radius: 20px;" src="https://remax.azureedge.net/userimages/35/O_0be5d18aa7ec4d109b72fa88d575e25e_iList.jpg"
+                             width="100%" height="auto" />
+                        <p>Büro/Praxis</p>
+                        <p style="color:blue;">Bad Kreuznach, DE</p>
+                        <p style="font-size:20px">7.056.000 €</p>
+                    </div>
+                </a>
+            </div>
+            <div class="column">
+                <a style="text-decoration:none;" href="https://www.google.de/maps/place/RE%2FMAX+Immobilienmakler+Bad+Kreuznach/@49.8441937,7.8751222,17z/data=!3m1!4b1!4m5!3m4!1s0x47bdf0b9db13999b:0xcc3f009c9ea78bd4!8m2!3d49.8441937!4d7.8773109" target="_blank">
+                    <div class="card">
+                        <img style="border-radius: 20px;" src="https://remax.azureedge.net/userimages/35/O_0be5d18aa7ec4d109b72fa88d575e25e_iList.jpg"
+                             width="100%" height="auto" />
+                        <p>Büro/Praxis</p>
+                        <p style="color:blue;">Bad Kreuznach, DE</p>
+                        <p style="font-size:20px">7.056.000 €</p>
+                    </div>
+                </a>
+            </div>
+        </section>
+    </body>
+</html>

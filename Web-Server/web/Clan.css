@@ -1,0 +1,219 @@
+﻿html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #000000;
+    background: url(https://jmd.im/wp-content/uploads/2017/06/blackx_thumbnail.jpg) no-repeat center center fixed;
+    background-size: cover;
+    height: 100%;
+    overflow: scroll;
+    max-width: 95%;
+    margin: auto;
+}
+
+#title {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #000000;
+    border-color: #787878;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+#error {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: rgba(0, 0, 0, 0.90);
+    border-color: #787878;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    max-width: 70%;
+}
+
+li {
+    float: right;
+}
+
+#red {
+    color: #ff0000;
+}
+
+li a:hover {
+    border-color: #ff0000;
+    border-width: 1px;
+    border-style: solid;
+}
+
+li a {
+    display: compact;
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    border-color: #360000;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+li a.active {
+    background-color: #ff0000;
+    color: white;
+    font-weight: bold;
+}
+
+.column {
+    float: left;
+    width: 200px;
+}
+
+.koncolumn {
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    height: 400px;
+    width: 240px;
+    padding: 15px;
+    border-color: #ff0000;
+    border-width: 1px;
+    border-style: dotted;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.70);
+}
+
+div.koncolumn:hover {
+    box-shadow: red 0px 0px 30px;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.leftleftcolumn {
+    margin-top: 80px;
+    float: left;
+    bottom: 300px;
+    width: 300px;
+}
+
+.leftcolumn {
+    float: left;
+    width: 12%;
+}
+
+.midcolumn {
+    float: left;
+    width: 350px;
+}
+
+.rightcolumn {
+    margin-right: 30px;
+    float: right;
+    width: 500px;
+}
+
+#content {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+#content2 {
+    margin-left: 70px;
+    margin-right: 40px;
+    margin-top: 50px;
+}
+
+#rules {
+    background-color: rgba(0, 0, 0, 0.70);
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 50px;
+    border-color: #ff0000;
+    border-width: 1px;
+    border-style: dotted;
+    border-radius: 5px;
+    padding: 14px 20px;
+}
+
+#rrules {
+    background-color: rgba(0, 0, 0, 0.70);
+    margin-left: 60px;
+    margin-right: 10px;
+    border-color: #ff0000;
+    border-width: 1px;
+    border-style: dotted;
+    border-radius: 5px;
+    padding: 14px 20px;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    font-size: 14px;
+    resize: vertical;
+    overflow: auto;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #000000;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: solid #360000;
+    border-radius: 1px;
+    cursor: pointer;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.80);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    font-family: sans-serif;
+    box-shadow: black 10px 10px 40px;
+}
+
+input[type=text],
+select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+    background-color: #ff0000;
+}
+
+.formcolumn {
+    margin-right: 30px;
+    float: right;
+    width: 600px;
+    padding: 15px;
+}
+
+.rulecolumn {
+    float: left;
+    width: 900px;
+    padding: 15px;
+}

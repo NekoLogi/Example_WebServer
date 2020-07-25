@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link href="Clan.css" rel="stylesheet" type="text/css" />
+    <title>BaseDigits bewerben</title>
+</head>
+
+<body>
+    <br />
+    <br />
+    <div id="title">
+        <center>
+            <img class="column" src="https://www.bilder-upload.eu/upload/c0942e-1565350918.png" alt="BaseDigits Logo Clan" />
+            <h1 class="midcolumn" style="color:white; font-size:70px;">Bewerben</h1>
+            <p class="leftleftcolumn" style="color:white; font-size:20px;">
+                For Streamers<br /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span id="red">and</span> Gamers.
+            </p>
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
+            <ul class="rightcolumn">
+                <li><a href="Clan_Kontakt.html">Mitglieder</a></li>
+                <li><a class="active" href="Clan_Beitreten.html">Bewerben</a></li>
+                <li><a href="Clan.html">Home</a></li>
+            </ul>
+        </center>
+        <br />
+    </div>
+    <p id="content2" style="color: white; font-size: 20px;">
+        Falls jemand es übersehen hatte auf der Startseite nochmal:
+    </p>
+    <div class="rulecolumn" id="rrules">
+        <p style="color: white; font-size: 20px;">
+            Anforderungen und Regeln:<br />
+        </p>
+        <p style="color: white;">
+            <span id="red">-</span> Ihr solltet mind. <span id="red">16 Jahre</span> alt sein um in den Clan beitreten zu können.<br />
+            <br />
+            <span id="red">-</span> Ihr solltet Deutsch können, weil das ein Deutschsprachiger Clan ist.<br />
+            <br />
+            <span id="red">-</span> Ihr solltet miteinander nett umgehen, Leute die negativ auffallen werden 3 mal verwarnt und dann gebannt.<br />
+        </p>
+    </div>
+
+    <form class="formcolumn" action="" style="color: white;" method="GET">
+        <label for="fname">Vorname:<span id="red"> *</span><span style="color: yellow;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Alles was mit</span><span id="red"> *</span></label><span style="color: yellow;"> markiert ist, ist ein Pflichtfeld.</span>
+        <input type="text" id="Name" name="name" placeholder="Wie heißt du?" maxlength="50" required>
+        <label for="lname">Nickname:<span id="red"> *</span></label>
+        <input type="text" id="Nickname" name="nickname" placeholder="Wie willst du angesprochen werden? (Kannst auch dein Vornamen nehmen)" maxlength="50" required>
+        <label for="lname">E-mail:<span id="red"> *</span></label>
+        <input style="width: 100%;padding: 12px 20px;margin: 8px 0;display: inline-block;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;" type="email" id="Email" name="email" placeholder="maxmustermann@beispiel.com" maxlength="50" required>
+        <label for="lname">Alter:<span id="red"> *</span></label>
+        <input style="width: 100%;padding: 12px 20px;margin: 8px 0;display: inline-block;border: 1px solid #ccc;border-radius: 4px;box-sizing: border-box;" type="number" id="Age" name="age" placeholder="800 Jahre alte Loli." min="16" max="100" required>
+        <textarea id="textarea" name="message" placeholder="Wenn du Fragen hast, kannst du sie hier stellen oder was zu dir sagen. [Max.500]" maxlength="500"></textarea>
+        <span id="count"></span>
+        <input type="submit" style="font-size: 20px;" value="Abschicken">
+    </form>
+
+    <script>
+        var el_t = document.getElementById('textarea');
+        var length = el_t.getAttribute("maxlength");
+        var el_c = document.getElementById('count');
+        el_c.innerHTML = length;
+        el_t.onkeyup = function() {
+            document.getElementById('count').innerHTML = (length - this.value.length);
+        };
+    </script>
+</body>
+
+</html>

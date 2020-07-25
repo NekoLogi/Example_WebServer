@@ -1,0 +1,2 @@
+System.NullReferenceException: Der Objektverweis wurde nicht auf eine Objektinstanz festgelegt.
+   bei TCP_Web_Server_Example.Program.Main(String[] args) in C:\Users\michael\Desktop\Projekte\Web-Server\Program.cs:Zeile 40.

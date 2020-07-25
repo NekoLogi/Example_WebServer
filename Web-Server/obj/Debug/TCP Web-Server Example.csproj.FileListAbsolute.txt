@@ -1,0 +1,33 @@
+C:\Users\Michael\source\repos\TCP Web-Server Example\bin\Debug\TCP Web-Server Example.exe.config
+C:\Users\Michael\source\repos\TCP Web-Server Example\bin\Debug\TCP Web-Server Example.exe
+C:\Users\Michael\source\repos\TCP Web-Server Example\bin\Debug\TCP Web-Server Example.pdb
+C:\Users\Michael\source\repos\TCP Web-Server Example\obj\Debug\TCP Web-Server Example.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\TCP Web-Server Example\obj\Debug\TCP Web-Server Example.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\TCP Web-Server Example\obj\Debug\TCP Web-Server Example.exe
+C:\Users\Michael\source\repos\TCP Web-Server Example\obj\Debug\TCP Web-Server Example.pdb
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\TCP Web-Server Example.exe.config
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\TCP Web-Server Example.exe
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\TCP Web-Server Example.pdb
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Debug\TCP Web-Server Example.csprojAssemblyReference.cache
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Debug\TCP Web-Server Example.csproj.CoreCompileInputs.cache
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Debug\TCP Web-Server Example.exe
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Debug\TCP Web-Server Example.pdb
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\MySql.Data.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.Helpers.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.Mvc.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.Razor.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.WebPages.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\Google.Protobuf.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\Renci.SshNet.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\MySql.Data.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.Helpers.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.Mvc.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.Razor.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.WebPages.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\michael\Desktop\Projekte\Web-Server\obj\Debug\TCP Web-Server Example.csproj.CopyComplete
